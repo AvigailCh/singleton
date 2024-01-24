@@ -1,0 +1,15 @@
+I:\Tichnut\Hagashat-Homarim\קבוצה 1\תבניות עיצוב\Lesson1_Singleton\Lesson1_Singleton\bin\Debug\net6.0\Lesson1_Singleton.exe
+I:\Tichnut\Hagashat-Homarim\קבוצה 1\תבניות עיצוב\Lesson1_Singleton\Lesson1_Singleton\bin\Debug\net6.0\Lesson1_Singleton.deps.json
+I:\Tichnut\Hagashat-Homarim\קבוצה 1\תבניות עיצוב\Lesson1_Singleton\Lesson1_Singleton\bin\Debug\net6.0\Lesson1_Singleton.runtimeconfig.json
+I:\Tichnut\Hagashat-Homarim\קבוצה 1\תבניות עיצוב\Lesson1_Singleton\Lesson1_Singleton\bin\Debug\net6.0\Lesson1_Singleton.dll
+I:\Tichnut\Hagashat-Homarim\קבוצה 1\תבניות עיצוב\Lesson1_Singleton\Lesson1_Singleton\bin\Debug\net6.0\Lesson1_Singleton.pdb
+I:\Tichnut\Hagashat-Homarim\קבוצה 1\תבניות עיצוב\Lesson1_Singleton\Lesson1_Singleton\obj\Debug\net6.0\Lesson1_Singleton.csproj.AssemblyReference.cache
+I:\Tichnut\Hagashat-Homarim\קבוצה 1\תבניות עיצוב\Lesson1_Singleton\Lesson1_Singleton\obj\Debug\net6.0\Lesson1_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+I:\Tichnut\Hagashat-Homarim\קבוצה 1\תבניות עיצוב\Lesson1_Singleton\Lesson1_Singleton\obj\Debug\net6.0\Lesson1_Singleton.AssemblyInfoInputs.cache
+I:\Tichnut\Hagashat-Homarim\קבוצה 1\תבניות עיצוב\Lesson1_Singleton\Lesson1_Singleton\obj\Debug\net6.0\Lesson1_Singleton.AssemblyInfo.cs
+I:\Tichnut\Hagashat-Homarim\קבוצה 1\תבניות עיצוב\Lesson1_Singleton\Lesson1_Singleton\obj\Debug\net6.0\Lesson1_Singleton.csproj.CoreCompileInputs.cache
+I:\Tichnut\Hagashat-Homarim\קבוצה 1\תבניות עיצוב\Lesson1_Singleton\Lesson1_Singleton\obj\Debug\net6.0\Lesson1_Singleton.dll
+I:\Tichnut\Hagashat-Homarim\קבוצה 1\תבניות עיצוב\Lesson1_Singleton\Lesson1_Singleton\obj\Debug\net6.0\refint\Lesson1_Singleton.dll
+I:\Tichnut\Hagashat-Homarim\קבוצה 1\תבניות עיצוב\Lesson1_Singleton\Lesson1_Singleton\obj\Debug\net6.0\Lesson1_Singleton.pdb
+I:\Tichnut\Hagashat-Homarim\קבוצה 1\תבניות עיצוב\Lesson1_Singleton\Lesson1_Singleton\obj\Debug\net6.0\Lesson1_Singleton.genruntimeconfig.cache
+I:\Tichnut\Hagashat-Homarim\קבוצה 1\תבניות עיצוב\Lesson1_Singleton\Lesson1_Singleton\obj\Debug\net6.0\ref\Lesson1_Singleton.dll

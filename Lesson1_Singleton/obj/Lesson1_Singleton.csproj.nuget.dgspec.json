@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\קבוצה 1\\תבניות עיצוב\\Lesson1_Singleton\\Lesson1_Singleton\\Lesson1_Singleton.csproj": {}
+  },
+  "projects": {
+    "Z:\\קבוצה 1\\תבניות עיצוב\\Lesson1_Singleton\\Lesson1_Singleton\\Lesson1_Singleton.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\קבוצה 1\\תבניות עיצוב\\Lesson1_Singleton\\Lesson1_Singleton\\Lesson1_Singleton.csproj",
+        "projectName": "Lesson1_Singleton",
+        "projectPath": "Z:\\קבוצה 1\\תבניות עיצוב\\Lesson1_Singleton\\Lesson1_Singleton\\Lesson1_Singleton.csproj",
+        "packagesPath": "C:\\Users\\326351160\\.nuget\\packages\\",
+        "outputPath": "Z:\\קבוצה 1\\תבניות עיצוב\\Lesson1_Singleton\\Lesson1_Singleton\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\326351160\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
